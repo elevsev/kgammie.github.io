@@ -1,16 +1,15 @@
 # Hi, hello! 
 
-I'm Kerryn Gammie, a self-proclaimed humanities-baby for life and a keen (un)learner. I'm deeply interested in the intersections of artificial intelligence and society, and specifically how AI can and should be used as a [socio-technical tool (Mohamed, S. 2021)](https://arxiv.org/abs/2007.04068) for human problems. This page is dedicated to my journey and (un)learning and is where I will my thoughts.
+I'm Kerryn Gammie, a self-proclaimed humanities-baby for life and a keen (un)learner. I'm deeply interested in the intersections of artificial intelligence and society, and specifically how AI can and should be used as a [socio-technical tool](https://arxiv.org/abs/2007.04068) for human problems. This page is dedicated to my journey and (un)learning and is where I will my thoughts.
 
 ### Things
 
 ```
-- articles/writings
-- videos 
+- [articles/writings](https://kgamm.medium.com/)
+- [videos](https://github.com/elevsev/kgammie.github.io/blob/gh-pages/videos.md) 
 - podcasts
 - code
 
-[Link](url) and ![Image](src)
 ```
 
 
