@@ -8,7 +8,6 @@ I'm Kerryn Gammie, a self-proclaimed humanities-baby for life and a keen (un)lea
 - code
 
 
-
 ### Contact
 
 I'm open to collaboration and resource-sharing so please feel free to get in touch [via email](kgammie94@gmail.com) and I'll get back to you.
